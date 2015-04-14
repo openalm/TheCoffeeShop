@@ -1,0 +1,5 @@
+INDEX VERSION 1.127
+C:\Users\anangaur\git\TheCoffeeShop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1395699154.index
+\TheCoffeeShop2.0\src
+C:\Users\anangaur\git\TheCoffeeShop\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\18014541.index
+\TheCoffeeShop3.0\src
