@@ -3,8 +3,8 @@
 <project basedir="." default="war" name="TheCoffeeShop3.0">
 	<property environment="env"/>
 	<property name="debuglevel" value="source,lines,vars"/>
-	<property name="target" value="1.7"/>
-	<property name="source" value="1.7"/>
+	<property name="target" value="1.8"/>
+	<property name="source" value="1.8"/>
 	<path id="Apache Tomcat v8.0 [Apache Tomcat v8.0].libraryclasspath">
 		<pathelement location="../../../../../Program Files/Apache Software Foundation/Tomcat 8.0/lib/annotations-api.jar"/>
 		<pathelement location="../../../../../Program Files/Apache Software Foundation/Tomcat 8.0/lib/catalina-ant.jar"/>
@@ -58,7 +58,7 @@
 	</path>
 	
 	<target name="compile" depends="init" >
-	    <javac compiler="javac1.7" target="1.7" destdir="build/classes" debug="true" srcdir="src" includeantruntime="true">
+	    <javac compiler="javac1.8" target="1.8" destdir="build/classes" debug="true" srcdir="src" includeantruntime="true">
 	        <classpath refid="compile.classpath"/>
 	    </javac>
 	</target>
