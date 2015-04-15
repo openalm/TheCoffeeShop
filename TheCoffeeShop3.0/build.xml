@@ -64,13 +64,13 @@
 	</target>
 	
 	<target name="war" depends="compile">
-	    <war destfile="dist/TheCoffeShop.war" webxml="WebContent/WEB-INF/web.xml">
+	    <war destfile="dist/TheCoffeeShop.war" webxml="WebContent/WEB-INF/web.xml">
 	        <fileset dir="WebContent"/>
 	        <lib dir="WebContent/WEB-INF/lib"/>
 	        <classes dir="build/classes"/>
 	    </war>
-    	<copy file="dist/TheCoffeShop.war" todir="../"/>
-		<move file="../TheCoffeShop.war" tofile="CopiedAndRenamedFile2.war"/>
+    	<copy file="dist/TheCoffeeShop.war" todir="../"/>
+		<move file="../TheCoffeeShop.war" tofile="CopiedAndRenamedFile2.war"/>
 	</target>
 	
 	<target name="clean">
