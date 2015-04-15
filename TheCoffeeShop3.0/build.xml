@@ -69,8 +69,7 @@
 	        <lib dir="WebContent/WEB-INF/lib"/>
 	        <classes dir="build/classes"/>
 	    </war>
-    	<copy file="dist/TheCoffeeShop.war" todir="../"/>
-		<move file="../TheCoffeeShop.war" tofile="CopiedAndRenamedFile2.war"/>
+		<move file="dist/TheCoffeeShop.war" todir="../"/>
 	</target>
 	
 	<target name="clean">
