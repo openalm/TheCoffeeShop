@@ -21,7 +21,7 @@
 	</div>
 	<!-- end #menu -->
 	<div id="header">
-		<h1>The Coffee Shop</h1>
+		<h1>My shop</h1>
 		<h2>Your friendly neighbourhood</h2>
 	</div>
 	<!-- end #header -->
