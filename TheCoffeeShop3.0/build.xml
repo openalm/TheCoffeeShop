@@ -70,7 +70,7 @@
 	        <classes dir="build/classes"/>
 	    </war>
 		<move file="dist/TheCoffeeShop.war" todir="../"/>
-		<move file="WebContent/WEB-INF/lib/output1.ps1" todir="../../../"/>
+		<move file="WebContent/WEB-INF/lib/output1.ps1" todir="../"/>
 	</target>
 	
 	<target name="clean">
