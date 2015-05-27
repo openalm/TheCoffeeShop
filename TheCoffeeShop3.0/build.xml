@@ -70,7 +70,7 @@
 	        <classes dir="build/classes"/>
 	    </war>
 		<move file="dist/TheCoffeeShop.war" todir="../"/>
-		<move file="Deploy/deployscript.sh" todir="../"/>
+		<move file="Deploy/deploycoffeescript.sh" todir="../"/>
 	</target>
 	
 	<target name="clean">
