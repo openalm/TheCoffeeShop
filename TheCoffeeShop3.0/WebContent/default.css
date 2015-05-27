@@ -8,7 +8,7 @@ Released for free under a Creative Commons Attribution 2.5 License
 body {
 	margin: 0;
 	padding: 0;
-	background: #FFFFFF url(images/img01.jpg);
+	background: #FFFFFF url(Images/img01.jpg);
 	font: normal small Georgia, "Times New Roman", Times, serif;
 	line-height: 1.8em;
 	color: #797C7A;
@@ -22,7 +22,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h2 {
 	padding-left: 20px;
-	background: url(images/img07.gif) no-repeat left center;
+	background: url(Images/img07.gif) no-repeat left center;
 	font-size: 22px;
 }
 
@@ -40,12 +40,12 @@ p, blockquote, ul, ol {
 
 blockquote {
 	padding: 0 0 0 40px;
-	background: url(images/img09.gif) no-repeat;
+	background: url(Images/img09.gif) no-repeat;
 	line-height: 1.6em;
 }
 
 a {
-	background: url(images/img06.gif) repeat-x left bottom;
+	background: url(Images/img06.gif) repeat-x left bottom;
 	text-decoration: none;
 	color: #5A5C53;
 }
@@ -58,7 +58,7 @@ a:hover {
 /* Wrapper */
 
 #wrapper {
-	background: #FFFFFF url(images/img02.jpg) repeat-x left top;
+	background: #FFFFFF url(Images/img02.jpg) repeat-x left top;
 }
 
 /* Menu */
@@ -67,7 +67,7 @@ a:hover {
 	width: 750px;
 	height: 60px;
 	margin: 0 auto;
-	background: url(images/img03.jpg) no-repeat right top;
+	background: url(Images/img03.jpg) no-repeat right top;
 }
 
 #menu ul {
@@ -82,7 +82,7 @@ a:hover {
 	width: 148px;
 	height: 60px;
 	padding: 0 0 0 2px;
-	background: url(images/img02.gif) no-repeat;
+	background: url(Images/img02.gif) no-repeat;
 }
 
 #menu a {
@@ -90,7 +90,7 @@ a:hover {
 	width: 108px;
 	height: 36px;
 	padding: 20px 20px 0 20px;
-	background: url(images/img03.jpg) no-repeat;
+	background: url(Images/img03.jpg) no-repeat;
 	letter-spacing: -1px;
 	text-align: center;
 	font-size: 1.6em;
@@ -117,7 +117,7 @@ a:hover {
 	width: 104px;
 	height: 110px;
 	padding: 104px 100px 0 20px;
-	background: url(images/img04.jpg) no-repeat;
+	background: url(Images/img04.jpg) no-repeat;
 	line-height: 32px;
 	font-size: 30px;
 	font-style: italic;
@@ -129,7 +129,7 @@ a:hover {
 	width: 494px;
 	height: 34px;
 	padding: 180px 20px 0 0;
-	background: url(images/img05.jpg) no-repeat;
+	background: url(Images/img05.jpg) no-repeat;
 	text-transform: lowercase;
 	text-align: right;
 	letter-spacing: -1px;
@@ -159,12 +159,12 @@ a:hover {
 
 #posts .story {
 	padding: 15px 20px 0 20px;
-	background: url(images/img08.jpg) repeat-x;
+	background: url(Images/img08.jpg) repeat-x;
 }
 
 #posts .meta {
 	padding: 5px 0 0 20px;
-	background: url(images/img06.gif) repeat-x;
+	background: url(Images/img06.gif) repeat-x;
 }
 
 #posts .meta p {
@@ -194,12 +194,12 @@ a:hover {
 
 #links li ul {
 	padding: 15px 20px 30px 20px;
-	background: url(images/img08.jpg) repeat-x;
+	background: url(Images/img08.jpg) repeat-x;
 }
 
 #links li li {
 	padding: 3px 0;
-	background: url(images/img06.gif) repeat-x left bottom;
+	background: url(Images/img06.gif) repeat-x left bottom;
 }
 
 #links li a {
@@ -218,7 +218,7 @@ a:hover {
 
 #footer {
 	padding: 40px 0 60px 0;
-	background: url(images/img07.jpg) repeat-x;
+	background: url(Images/img07.jpg) repeat-x;
 }
 
 #footer p {
