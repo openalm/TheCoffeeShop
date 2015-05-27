@@ -19,7 +19,7 @@
 		<p class="site-title">
 			<a href="">Coffee Shop</a>
 		</p>
-		<nav>
+		<nav>"WebContent/Content"
 		<ul>
 			<li><a href="index.jsp">Home</a></li>
 			<li><a href="about.jsp">About Us</a></li>
