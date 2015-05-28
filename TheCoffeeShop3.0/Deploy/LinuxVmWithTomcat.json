@@ -205,7 +205,7 @@
                     "fileUris": [
                         "[parameters('scriptUri')]"
                     ],
-                    "commandToExecute": "[concat('sh install_django.sh ', parameters('packageUri'))]"
+                    "commandToExecute": "[concat('sh installcoffee.sh ', parameters('packageUri'))]"
 
                 }
             }

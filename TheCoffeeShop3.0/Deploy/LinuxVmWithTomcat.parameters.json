@@ -3,7 +3,7 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "newStorageAccountName": {
-            "value": "coffeeshopstorage2"
+            "value": "coffeeshopstore"
         },
         "location": {
             "value": "East US"
@@ -15,8 +15,13 @@
             "value": "Microsoft~1"
         },
         "vmDnsName": {
-            "value": "linuxrgcoffeeshop2"
+            "value": "coffeeshopapp"
+        },
+        "scriptUri": {  
+            "value" : "defaultScript"
+        },
+        "packageUri": {
+            "value" : "defaultPackage"
         }
-
     }
 }
