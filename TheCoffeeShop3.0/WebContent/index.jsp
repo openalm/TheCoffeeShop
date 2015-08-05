@@ -16,12 +16,13 @@
 	<div id="page">
 		<header>
 		<p class="site-title">
-			<a href="">The Coffee Shop</a>
+			<a href="">Coffee Shop</a>
 		</p>
 		<nav>
 		<ul>
 			<li><a href="index.jsp">Home</a></li>
 			<li><a href="about.jsp">About Us</a></li>
+			<li><a href="index.jsp">Contact Us</a></li>
 		</ul>
 		</nav> </header>
 		<div id="body">
