@@ -8,7 +8,7 @@
         <description>My package description.</description>
     </metadata>
     <files>
-        <file src="archive\archive\TheCoffeeShop.war" target="content\TheCoffeeShop.war" />
-        <file src="archive\archive\deploy.sh" target="deploy.sh" />
+        <file src="..\TheCoffeeShop.war" target="..\TheCoffeeShop.war" />
+        <file src="Deploy\deploy.sh" target="deploy.sh" />
     </files>
 </package>
