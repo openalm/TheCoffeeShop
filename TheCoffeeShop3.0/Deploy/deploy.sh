@@ -1,5 +1,5 @@
 #!/bin/bash
-apt-get -y update
-apt-get -y install default-jre
-apt-get -y install tomcat7
-cp TheCoffeeShop.war /var/lib/tomcat7/webapps/
+sudo apt-get -y update
+sudo apt-get -y install default-jre
+sudo apt-get -y install tomcat7
+sudo cp TheCoffeeShop.war /var/lib/tomcat7/webapps/
