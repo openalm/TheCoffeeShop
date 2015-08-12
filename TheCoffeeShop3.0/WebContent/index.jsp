@@ -24,7 +24,6 @@
 			<li><a href="about.jsp">About Us</a></li>
 			<li><a href="about.jsp">Shopping Cart</a></li>
 			<li><a href="index.jsp">Contact Us</a></li>
-			<li><a href="index.jsp">Sign up</a></li>
 		</ul>
 		</nav> </header>
 		<div id="body">
