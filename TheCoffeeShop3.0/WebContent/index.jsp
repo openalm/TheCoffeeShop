@@ -22,6 +22,7 @@
 		<ul>
 			<li><a href="index.jsp">Home</a></li>
 			<li><a href="index.jsp">Contact us</a></li>
+			<li><a href="signin.jsp">Sign in</a></li>
 		</ul>
 		</nav> </header>
 		<div id="body">
